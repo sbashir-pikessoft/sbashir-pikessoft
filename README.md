@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shahzad Bashir
+- 👀 I’m interested in .Net & JS Technologies
+- 🌱 I’m currently learning JS Technologies
+- 📫 How to reach me @shahzadbirmani8@gmail.com
